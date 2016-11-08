@@ -29,7 +29,9 @@ public class pr01_m8{
             bw.newLine();
             bw.write("</html>");
             bw.newLine();
-            bw.close(); 
+            bw.write("-------------------------------");
+            bw.newLine();
+            bw.close();
         } 
     }
 } 
